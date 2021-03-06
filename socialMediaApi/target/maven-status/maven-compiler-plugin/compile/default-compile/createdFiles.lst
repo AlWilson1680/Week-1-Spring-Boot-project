@@ -1,0 +1,7 @@
+com\promineotech\socialMediaApi\entity\Post.class
+com\promineotech\socialMediaApi\entity\Comment.class
+com\promineotech\socialMediaApi\controller\CommentController.class
+com\promineotech\socialMediaApi\App.class
+com\promineotech\socialMediaApi\controller\UserController.class
+com\promineotech\socialMediaApi\entity\User.class
+com\promineotech\socialMediaApi\controller\PostController.class
